@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+section#meinBody {
+  overflow: hidden;
+}
+
+.continar {
+  width: 1280px;
+  margin: auto;
+}
+
+.topmenunbar {
+  width: 502px;
+  margin: auto;
+  text-align: center;
+}
+
+.bismillaTex h1 {
+  color: burlywood;
+}
+
+.topmenunbar a {
+  text-decoration: none;
+}
+
+.topmenunbar h1 {
+  color: dodgerblue;
+  font-size: 40px;
+  font-family: sans-serif;
+  margin-bottom: 19px;
+  background: gainsboro;
+  border-radius: 0px 0px 50px 50px;
+  box-shadow: 0px 0px 15px 3px black;
+}
+
+.arabicBismilla {
+  font-size: 25px;
+}
+
+.topmenunbar .bismillaTex {
+  font-size: 20px;
+  color: dodgerblue;
+}
+
+span#arabicBismilla {
+  font-family: system-ui;
+  margin: 10px;
+  font-size: 22px;
+}
+
+.suraBox a {
+  text-decoration: none;
+  color: dodgerblue;
+}
+
+.suraBox {
+  width: 294px;
+  font-size: 18px;
+  font-weight: 700;
+  border-radius: 0px 0px 30px 30px;
+  font-family: sans-serif;
+  overflow: hidden;
+  background: gainsboro;
+}
+
+.suraNumber {
+  text-align: center;
+  width: 45px;
+  border-radius: 0px 0px 50px 50px;
+  font-size: 21px;
+  margin: auto;
+  padding: 8px;
+  box-shadow: 2px 2px;
+  background: white;
+}
+
+.suraNameE {
+  width: 120px;
+  float: left;
+  text-align: center;
+  padding: 20px 0px;
+}
+
+.suraNameB {
+  float: right;
+  width: 120px;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.suraManebox {
+  float: left;
+  box-shadow: 0px -5px 0px dodgerblue;
+  margin: 13px;
+}
+
+div#topmenunbartex {
+  background: gainsboro;
+  text-align: center;
+  margin-bottom: 20px;
+  padding: 6px 381px;
+  box-shadow: 0px 5px 1px 0px dodgerblue;
+  border-radius: 100px 100px 0px 0px;
+}
+
+
+footer {
+  background: rgb(0, 114, 255);
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+#allBlocks p {
+  font-size: 13px;
+}
+
+#allBlocks {
+  width: 1170px;
+  margin: auto;
+  padding: 20px 0px;
+  overflow: hidden;
+}
